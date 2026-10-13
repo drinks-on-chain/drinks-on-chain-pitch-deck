@@ -49,13 +49,12 @@ Una lámina se oculta con `?hide=id,id` (por ejemplo `?hide=negocio` mientras no
 ## Falta
 
 **Datos** (en `src/content/deck.ts`)
-1. Cargo y nombre completo de Vanessa.
-2. Confirmar cómo se escribe el apellido de Clara (el deck anterior dice "Bottler").
-3. Modelo de negocio: fuentes de ingreso y precios.
-4. El pedido de la lámina final (cambia según dónde se presente).
-5. Correo de contacto: hoy `contacto@drinksonchain.bo`, el mismo de la landing.
-6. Cifras de mercado con fuente, si se quiere una lámina de oportunidad.
-7. Hitos de 2027.
+1. Confirmar cómo se escribe el apellido de Clara (el deck anterior dice "Bottler").
+2. Modelo de negocio: fuentes de ingreso y precios.
+3. El pedido de la lámina final (cambia según dónde se presente).
+4. Correo de contacto: hoy `contacto@drinksonchain.bo`, el mismo de la landing.
+5. Cifras de mercado con fuente, si se quiere una lámina de oportunidad.
+6. Hitos de 2027.
 
 **Fotos** (en `public/fotos/`, nombres en el `README.md`)
-- Viaje a Tarija (5), Bodega Daroca (1 y logo), UCB (1 y logo), lanzamiento o Tarija (1), equipo (4), captura del ERP (1).
+- Ninguna: todas las fotos del deck están subidas.
