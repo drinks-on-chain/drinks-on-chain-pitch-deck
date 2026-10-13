@@ -461,7 +461,7 @@ export const DECK = {
     section: l("El equipo", "The team"),
     title: l("Quiénes somos", "Who we are"),
     people: [
-      { name: "Kevin Gomez", role: PENDING, photo: "equipo-kevin.jpg", founder: true },
+      { name: "Kevin Gomez", role: l("CEO y Co-founder", "CEO & Co-founder"), photo: "kevin-perfil2026.png", founder: true },
       { name: "Vanessa", role: PENDING, photo: "equipo-vanessa.jpg", founder: true },
       { name: "Diego Vargas", role: PENDING, photo: "equipo-diego.jpg", founder: true },
       { name: "Clara Bottler", role: l("Sommelier · Curaduría enológica", "Sommelier · Wine curation"), photo: "equipo-clara.jpg", founder: false },

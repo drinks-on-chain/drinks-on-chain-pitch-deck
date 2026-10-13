@@ -34,7 +34,7 @@ En un teléfono en vertical las láminas se leen como una sola columna.
 | `daroca-01.jpg`, `daroca-logo.png` | Bodega Daroca |
 | `ucb-01.jpg`, `ucb-logo.png` | Alianza académica |
 | `lanzamiento-01.jpg` | Lanzamiento |
-| `equipo-kevin.jpg`, `equipo-vanessa.jpg`, `equipo-diego.jpg`, `equipo-clara.jpg` | Equipo (retrato vertical 4:5) |
+| `kevin-perfil2026.png`, `equipo-vanessa.jpg`, `equipo-diego.jpg`, `equipo-clara.jpg` | Equipo (retrato vertical 4:5) |
 | `captura-erp.png` | ERP (captura de pantalla 16:11) |
 
 - **Diseño de una lámina:** `src/components/slides.tsx`; estilos en `src/app/globals.css` (todo en `em`: la lámina escala como una pieza).
