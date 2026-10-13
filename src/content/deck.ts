@@ -476,7 +476,7 @@ export const DECK = {
   cierre: {
     section: l("Cierre", "Closing"),
     title: l("Sé parte de la primera red de vinos y singanis tokenizados de Bolivia", "Be part of Bolivia's first network of tokenised wines and singanis"),
-    ask: { label: l("Lo que buscamos", "What we are looking for"), body: PENDING },
+    ask: { label: l("Lo que buscamos", "What we are looking for"), body: l("Su apoyo y feedback", "Your support and feedback") },
     contact: "contacto@drinksonchain.bo",
     site: "www.drinksonchain.com",
     notes: l("Adaptar el pedido a cada presentación: grant, programa o reunión.", "Tailor the ask to each presentation: grant, programme or meeting."),

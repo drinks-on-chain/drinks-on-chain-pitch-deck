@@ -32,7 +32,7 @@ Llega hasta el Marketplace; el punto de canje (POS) queda fuera.
 | 17 | `negocio` | Modelo de negocio — **por definir** |
 | 18 | `ruta` | Hecho · octubre · noviembre · 2027 |
 | 19 | `equipo` | Kevin, Vanessa, Diego y Clara Bottler (sommelier) |
-| 20 | `cierre` | Llamado y pedido — **por definir** |
+| 20 | `cierre` | Llamado y pedido: su apoyo y feedback |
 
 Una lámina se oculta con `?hide=id,id` (por ejemplo `?hide=negocio` mientras no esté definido).
 
@@ -51,10 +51,9 @@ Una lámina se oculta con `?hide=id,id` (por ejemplo `?hide=negocio` mientras no
 **Datos** (en `src/content/deck.ts`)
 1. Confirmar cómo se escribe el apellido de Clara (el deck anterior dice "Bottler").
 2. Modelo de negocio: fuentes de ingreso y precios.
-3. El pedido de la lámina final (cambia según dónde se presente).
-4. Correo de contacto: hoy `contacto@drinksonchain.bo`, el mismo de la landing.
-5. Cifras de mercado con fuente, si se quiere una lámina de oportunidad.
-6. Hitos de 2027.
+3. Correo de contacto: hoy `contacto@drinksonchain.bo`, el mismo de la landing.
+4. Cifras de mercado con fuente, si se quiere una lámina de oportunidad.
+5. Hitos de 2027.
 
 **Fotos** (en `public/fotos/`, nombres en el `README.md`)
 - Ninguna: todas las fotos del deck están subidas.
