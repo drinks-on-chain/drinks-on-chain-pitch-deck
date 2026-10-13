@@ -45,4 +45,4 @@ Los hosts de los otros sitios salen de `NEXT_PUBLIC_URL_LANDING` y `NEXT_PUBLIC_
 
 ## Git
 
-Trabajo en `dev`, PR `dev → main`. Vercel: producción desde `main`, previews desde `dev`.
+Vercel: producción desde `main`, previews desde `dev`. El flujo completo (etiqueta de restauración al iniciar sesión, Conventional Commits y publicación según la rama) está en [`AGENTS.md`](AGENTS.md).
