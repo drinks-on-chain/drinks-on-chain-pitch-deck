@@ -49,7 +49,7 @@ Una lámina se oculta con `?hide=id,id` (por ejemplo `?hide=negocio` mientras no
 ## Falta
 
 **Datos** (en `src/content/deck.ts`)
-1. Cargo de Kevin, Vanessa y Diego; nombre completo de Vanessa.
+1. Cargo y nombre completo de Vanessa.
 2. Confirmar cómo se escribe el apellido de Clara (el deck anterior dice "Bottler").
 3. Modelo de negocio: fuentes de ingreso y precios.
 4. El pedido de la lámina final (cambia según dónde se presente).
